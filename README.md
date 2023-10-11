@@ -20,21 +20,13 @@
 
   ## Usage
 
-  To use this application, follow these steps:
+  To use this application, you can visit this link:
 
-  1. Clone this repository to your local machine from repo: [Note Taker App](https://github.com/Prosentint/svg-shape-generator)
-  
-  2. Navigate to the project's root directory.
+  [Deployed Link](https://shrouded-forest-59716-e73e653d691c.herokuapp.com/)
 
-  3. Install the required dependencies.
+  or visit this repo to view the source code
 
-  4. Customize the SVG generation by running the application.
-
-  5. Answer the prompts to provide information about your desried SVG.
-
-  6. The SVG file will be generated in the `generated` directory.
-
-  [Video Guide](https://drive.google.com/file/d/1pS6i6aLBHZMB3IbU21iOxM2aYiSQr4m3/view?usp=sharing)
+  [GitHub Repo](https://github.com/Prosentint/note-taker-app)
 
   ## Questions
 
